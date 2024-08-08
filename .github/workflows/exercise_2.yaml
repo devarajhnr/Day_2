@@ -1,3 +1,4 @@
+name: display file content from main branch
 on:
   push:
     branches:
