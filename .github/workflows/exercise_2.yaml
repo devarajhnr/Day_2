@@ -1,4 +1,4 @@
-name: display file content from main branch
+name: display file content from root directory.
 on:
   push:
     branches:
